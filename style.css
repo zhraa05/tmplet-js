@@ -1,0 +1,125 @@
+/* #continer {
+  width: 88%;
+  margin: 0;
+  text-align: center;
+}
+#text {
+  font-size: 28px;
+}
+#zar {
+  display: inline-block;
+  padding: 10px 25px;
+  margin-bottom: 30px;
+  font-size: 24px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4caf50;
+  border: none;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  box-shadow: 0 5px #999;
+  transition: 0.1s;
+  -webkit-transition: 0.1s;
+  -moz-transition: 0.1s;
+  -ms-transition: 0.1s;
+  -o-transition: 0.1s;
+}
+#zar:hover {
+  background-color: red;
+  color: seashell;
+}
+#zar:active {
+  background-color: #3e8e41;
+  box-shadow: 0 0px #666;
+  transform: translateY(4px);
+  -webkit-transform: translateY(4px);
+  -moz-transform: translateY(4px);
+  -ms-transform: translateY(4px);
+  -o-transform: translateY(4px);
+}
+li {
+  list-style-type: none;
+  padding: 15px 10px;
+  border-bottom: 1px solid #9f9f9f;
+}
+li:hover {
+  background-color: #dfdfdf;
+  transition: 0.2s;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -ms-transition: 0.2s;
+  -o-transition: 0.2s;
+}
+.selected {
+  background-color: #99ffaa;
+} */
+/* الواجب الثاني */
+.blog {
+  width: 60%;
+  margin: 50px auto;
+  color: #7e7e80;
+  line-height: 1.8;
+  text-align: center;
+}
+.blog h1 {
+  font-size: 48px;
+}
+.box {
+  width: 500px;
+  margin: 50px auto;
+  padding: 15px;
+  border: 4px solid purple;
+  position: relative;
+}
+.box-close {
+  color: white;
+  width: 25px;
+  height: 25px;
+  line-height: 25;
+  font-family: sans-serif;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: black;
+}
+
+.box-close:hover {
+  background-color: bisque;
+  color: purple;
+  box-shadow: inset 0px 0px 0px 2px purple;
+  cursor: pointer;
+}
+.faq {
+  padding: 10px;
+  margin-bottom: 50px;
+  background-color: antiquewhite;
+  border: 1px dotted purple;
+}
+.question {
+  color: rgb(181, 23, 202);
+  font-family: monospace;
+}
+.pointer {
+  color: rgb(126, 30, 216);
+  cursor: pointer;
+}
+.mor {
+  border: 4px solid black;
+}
+.mor-items {
+  width: 550px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 1.8;
+  font-size: 18px;
+}
+.img {
+  float: left;
+  padding-right: 20px;
+}
